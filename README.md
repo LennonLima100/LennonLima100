@@ -1,4 +1,4 @@
-## I'm LENNON LIMA!
+## I'm Lennon Lima!
 
  
 
@@ -6,11 +6,11 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
+:snake: Python Reference
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LennonLima100)](LINK_GIT) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lennon-lima100)](LINK_LINKEDIN)
+
 
 [![LennonLima100 GitHub stats](https://github-readme-stats.vercel.app/api?username=LennonLima100&show_icons=true&theme=radical)](https://github.com/LennonLima100/github-readme-stats)
 
@@ -24,3 +24,6 @@
 <code><img src= "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></code>
 <code><img src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></code>
 <code><img src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+
+## Contacts
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LennonLima100)](https://github.com/LennonLima100) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/lennon-lima100)]( https://www.linkedin.com/in/lennon-lima100)
