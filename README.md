@@ -8,13 +8,11 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project..
-
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LennonLima100)](LINK_GIT)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LennonLima100)](LINK_GIT) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lennon-lima100)](LINK_LINKEDIN)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lennon-lima100)](LINK_LINKEDIN)
+[![LennonLima100 GitHub stats](https://github-readme-stats.vercel.app/api?username=LennonLima100)](https://github.com/LennonLima100/github-readme-stats)
 
 ## Languages
 <code><img height= "20"src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
