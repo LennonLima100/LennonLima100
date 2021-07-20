@@ -15,6 +15,7 @@
 [![LennonLima100 GitHub stats](https://github-readme-stats.vercel.app/api?username=LennonLima100)](https://github.com/LennonLima100/github-readme-stats)
 
 ## Languages
+![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
 <code><img height= "20"src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
 <code><img height= "20"src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 
