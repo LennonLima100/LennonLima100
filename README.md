@@ -13,7 +13,9 @@
 [![LennonLima100 GitHub stats](https://github-readme-stats.vercel.app/api?username=LennonLima100&show_icons=true&theme=radical)](https://github.com/LennonLima100/github-readme-stats)
 
 ## :coffee: Languages
-<code><img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code> <code><img src= "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" ></code> 
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 
 ## :zap: Database 
 <code><img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code> <code><img src= "https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></code> <code><img src= "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code> <code><img src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code> <code><img src= "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></code>
