@@ -25,3 +25,6 @@
 
 ## :iphone: Contacts :octocat:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LennonLima100)](https://github.com/LennonLima100) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lennon-lima100)](https://www.linkedin.com/in/lennon-lima100)
+
+ 
+  ![Snake animation](https://github.com/LennonLima100/LennonLima100/blob/output/github-contribution-grid-snake.svg)
