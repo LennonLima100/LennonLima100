@@ -24,6 +24,7 @@
 <code><img src= "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></code>
 <code><img src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></code>
 <code><img src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></code>
 
 ## :iphone: Contacts :octocat:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LennonLima100)](https://github.com/LennonLima100) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lennon-lima100)](https://www.linkedin.com/in/lennon-lima100)
