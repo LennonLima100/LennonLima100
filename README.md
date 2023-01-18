@@ -10,8 +10,6 @@
 
 ## About me
 
-[![LennonLima100 GitHub stats](https://github-readme-stats.vercel.app/api?username=LennonLima100&show_icons=true&theme=radical)](https://github.com/LennonLima100/github-readme-stats)
-
 ## :coffee: Languages
 <code><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" ></code> 
 <code><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
